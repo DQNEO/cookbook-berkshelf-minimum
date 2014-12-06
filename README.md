@@ -7,7 +7,7 @@ All This cookbook does is to say "hello world".
 
 write Berksfile
 
-```
+```ruby
 source "https://supermarket.chef.io"
 
 cookbook 'hello', github: 'DQNEO/cookbook-hello'
