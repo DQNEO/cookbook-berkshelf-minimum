@@ -1,1 +1,1 @@
-log "hello berkshelf"
+log "hello world"
